@@ -1,4 +1,4 @@
-package ifelse;
+package ifs_homework_problems.additional.ifelse;
 
 import java.util.Scanner;
 

@@ -11,7 +11,7 @@ public class Program_9_Digits_Product {
         int mult = 1;
 
         while (n > 0) {
-            mult = mult * n % 10;
+            mult = mult * (n % 10);
             n = n / 10;
         }
 
